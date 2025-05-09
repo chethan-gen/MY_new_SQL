@@ -1,0 +1,26 @@
+{
+  "name": "my_new_sql",
+  "version": "1.0.0",
+  "description": "This project sets up a basic **Express.js server** that connects to a **MySQL database** using **environment variables** for security and flexibility. The server will use **dotenv** for loading environment configurations and **mysql2** for database interactions.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chethan-gen/MY_new_SQL.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chethan-gen/MY_new_SQL/issues"
+  },
+  "homepage": "https://github.com/chethan-gen/MY_new_SQL#readme",
+  "dependencies": {
+    "dotenv": "^16.5.0",
+    "express": "^5.1.0",
+    "morgan": "^1.10.0",
+    "mysql2": "^3.14.1"
+  }
+}

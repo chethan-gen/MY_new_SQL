@@ -1,0 +1,9 @@
+{
+  "version": "1",
+  "name": "SQL_DB",
+  "type": "collection",
+  "ignore": [
+    "node_modules",
+    ".git"
+  ]
+}
